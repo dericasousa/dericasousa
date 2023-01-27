@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I"am currently developing my own portfolio projects.<br>🌱 I’m currently learning JavaScript, Go, AWS, QGIS<br>💬 Find me: drksbr@protonme.com<br>
+🔭 I"am currently developing my own portfolio projects.<br>🌱 I’m currently learning JavaScript, Go, AWS, QGIS<br>💬 Find me: drksbr@proton.me<br>
 
 
 ## 🌐 Socials:
