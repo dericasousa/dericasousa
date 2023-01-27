@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I"am currently developing my own portfolio projects.<br>🌱 I’m currently learning JavaScript, Go, AWS, QGIS<br>💬 Find me: derica@tuta.io<br>
+🔭 I"am currently developing my own portfolio projects.<br>🌱 I’m currently learning JavaScript, Go, AWS, QGIS<br>💬 Find me: derica@protonmail.com<br>
 
 
 ## 🌐 Socials:
